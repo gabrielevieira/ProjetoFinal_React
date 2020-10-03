@@ -1,26 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import PromotionCard from "../src/pages/Cardapio/Cardapio";
 
-function App() {
+const App = () => {
+  const produto = {
+    id: 1,
+    title: "Coxinha",
+    price: "1,79",
+    descrição: "Coxinha de Frango",
+    imageurl:
+      "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png",
+  };
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <PromotionCard produto={produto} />
       </header>
     </div>
   );
-}
+};
 
 export default App;

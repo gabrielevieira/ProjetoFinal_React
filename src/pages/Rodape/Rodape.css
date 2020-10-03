@@ -1,0 +1,28 @@
+.footer {
+  background-color: black;
+  color: white;
+  font-family: "ABeeZee", sans-serif;
+  display: flex;
+  height: 200px;
+  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-left: 150px;
+}
+.localizacao {
+  align-self: center;
+  margin-left: 50px;
+  margin-right: 30px;
+  margin-top: 60px;
+}
+.horario {
+  align-self: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.outros {
+  align-self: center;
+  margin-top: 30px;
+  margin-left: 60px;
+  margin-right: 30px;
+}
