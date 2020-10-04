@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "../Header/Header";
-import Rodape from "../Rodape/Rodape";
+import Header from "../../components/Header/Header";
+import Rodape from "../../components/Rodape/Rodape";
 
 const Cardapio = ({ produto }) => (
   <div>

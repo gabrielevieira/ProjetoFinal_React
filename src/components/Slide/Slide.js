@@ -3,7 +3,7 @@ import { Carousel } from "react-bootstrap";
 
 function Slide() {
   return (
-    <Carousel class="carouselSlide">
+    <Carousel className="carouselSlide">
       <Carousel.Item>
         <img className="d-block w-100" src="banner.png" alt="First slide" />
 

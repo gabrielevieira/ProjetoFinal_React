@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../Header/Header";
+import Header from "../../components/Header/Header";
 import { Form, Button, Container } from "react-bootstrap";
-import Rodape from "../Rodape/Rodape";
+import Rodape from "../../components/Rodape/Rodape";
 import "./FormuPedidos.css";
 
 function FormuPedidos() {
@@ -9,7 +9,7 @@ function FormuPedidos() {
     <div>
       <Header />
       <Container>
-        <div class="formupedidos"></div>
+        <div className="formupedidos"></div>
         <Form>
           <Form.Group>
             <div>

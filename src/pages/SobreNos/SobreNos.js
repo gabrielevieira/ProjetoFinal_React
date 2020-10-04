@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../Header/Header";
+import Header from "../../components/Header/Header";
 import { Jumbotron, Button, Container } from "react-bootstrap";
-import Rodape from "../Rodape/Rodape";
+import Rodape from "../../components/Rodape/Rodape";
 
 function SobreNos() {
   return (

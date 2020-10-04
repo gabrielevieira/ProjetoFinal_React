@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 function Rodape() {
   return (
-    <footer class="footer">
-      <div class="localizacao">
+    <footer className="footer mt-auto py-3">
+      <div className="localizacao">
         <div>
           <p>Localização:</p>
           <p>
@@ -15,13 +15,13 @@ function Rodape() {
           <p>Tel: (48) 98763637</p>
         </div>
       </div>
-      <div class="horario">
+      <div className="horario">
         <div>
           <p>Horário de Funcionamento:</p>
           <p>08:00 às 19:00</p>
         </div>
       </div>
-      <div class="outros">
+      <div className="outros">
         <Link to="/formulario">Pedidos Aqui</Link>
         <br></br>
         <Link to="/faleconosco">Fale Conosco</Link>

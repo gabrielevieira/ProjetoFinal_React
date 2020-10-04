@@ -1,13 +1,13 @@
 import React from "react";
-import Header from "./Header/Header";
-import Slide from "./Slide/Slide";
-import Menu from "./Menu/Menu";
-import Rodape from "./Rodape/Rodape";
-import BarraInferior from "./Rodape/BarraInferior";
+import Header from "../components/Header/Header";
+import Slide from "../components/Slide/Slide";
+import Menu from "../components/Menu/Menu";
+import Rodape from "../components/Rodape/Rodape";
+import BarraInferior from "../components/Rodape/BarraInferior";
 
 function Home() {
   return (
-    <div class="Home">
+    <div className="Home">
       <header>
         <Header />
       </header>

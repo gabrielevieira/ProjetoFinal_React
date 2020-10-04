@@ -7,7 +7,7 @@ import Mapa from "./Mapa";
 function Menu() {
   return (
     <Container>
-      <div class="cardCardapio">
+      <div className="cardCardapio">
         <Jumbotron>
           <h1>Confira o cardápio aqui</h1>
           <p>
