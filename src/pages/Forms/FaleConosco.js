@@ -3,6 +3,7 @@ import Header from "../../components/Header/Header";
 import { Form, Button, Container } from "react-bootstrap";
 import Rodape from "../../components/Rodape/Rodape";
 import "./FaleConosco.css";
+import BarraInferior from "../../components/Rodape/BarraInferior";
 
 function FaleConosco() {
   return (
@@ -45,6 +46,7 @@ function FaleConosco() {
         </div>
       </Container>
       <Rodape />
+      <BarraInferior />
     </div>
   );
 }

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Rodape() {
   return (
-    <footer className="footer mt-auto py-3">
+    <footer className="footer">
       <div className="localizacao">
         <div>
           <p>Localização:</p>

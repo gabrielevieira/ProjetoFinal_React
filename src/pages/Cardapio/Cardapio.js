@@ -1,26 +1,23 @@
 import React from "react";
-import Header from "../../components/Header/Header";
-import Rodape from "../../components/Rodape/Rodape";
+import { Container } from "react-bootstrap";
+
+import "./Cardapio.css";
 
 const Cardapio = ({ produto }) => (
-  <div>
-    <Header />
-
-    <div className="produto-card">
+  <Container>
+    <div className="card">
       <img
-        src={produto.produtos.imageUrl}
-        alt={produto.produtos.title}
-        className="produto-card__image"
+        src={produto.imageUrl}
+        alt={produto.title}
+        className=" card-img-top"
       />
-      <div className="produto-card__info">
-        <h1 className="produto-card__title">{produto.produtos.title}</h1>
-        <span className="produto-card__price">R${produto.produtos.price}</span>
-        <footer className="produto-card__footer"></footer>
+
+      <div className="card-body">
+        <div className="card-title">{produto.title}</div>
+        <div className="card-descricao">{produto.descricao}</div>
       </div>
     </div>
-
-    <Rodape />
-  </div>
+  </Container>
 );
 
 export default Cardapio;

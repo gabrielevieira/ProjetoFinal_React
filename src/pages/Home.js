@@ -4,6 +4,7 @@ import Slide from "../components/Slide/Slide";
 import Menu from "../components/Menu/Menu";
 import Rodape from "../components/Rodape/Rodape";
 import BarraInferior from "../components/Rodape/BarraInferior";
+import "./Home.css";
 
 function Home() {
   return (

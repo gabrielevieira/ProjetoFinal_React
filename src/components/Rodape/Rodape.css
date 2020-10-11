@@ -3,10 +3,10 @@
   color: white;
   font-family: "ABeeZee", sans-serif;
   display: flex;
-  height: 200px;
   padding-bottom: 60px;
   padding-top: 30px;
   padding-left: 150px;
+  margin-top: 100px;
 }
 .localizacao {
   align-self: center;

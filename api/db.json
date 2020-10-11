@@ -5,70 +5,70 @@
       "title": "Coxinha",
       "price": "1,79",
       "descricao": "Coxinha de Frango",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/c1/a2/e3/c1a2e3aa136814d3a41ba829df1c344a.jpg"
     },
     {
       "id": 2,
       "title": "Coxinha Com Requeijão",
       "price": "1,79",
       "descricao": "Coxinha de Frango com Requeijão",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/ae/e3/7b/aee37b0ce2dea06979f0f6550e3d44a2.jpg"
     },
     {
       "id": 3,
       "title": "Risoles",
       "price": "1,79",
       "descricao": "Risoles de carne",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/9a/fe/fd/9afefd4dd371408cdf33df29f88753a8.jpg"
     },
     {
       "id": 4,
       "title": "Salsicha",
       "price": "1,79",
-      "descricao": "Coxinha de Frango",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "descricao": "Salsicha Salgado",
+      "imageUrl": "https://i.pinimg.com/564x/ac/c4/ab/acc4ab99fbbc98c28886ddba3d8e39aa.jpg"
     },
     {
       "id": 5,
       "title": "Salgado Ovo",
       "price": "1,79",
       "descricao": "Salgado Ovo",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/f5/1e/0e/f51e0e074fa52c735e12efbda8b4e4f6.jpg"
     },
     {
       "id": 6,
       "title": "Empadão de Frango",
       "price": "10,00",
       "descricao": "Empadão de Frango 500g",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/83/cd/f1/83cdf13dc30b3b385ea4af9ca6eb02b4.jpg"
     },
     {
       "id": 7,
       "title": "Empadão de Frango requeijão",
       "price": "10,00",
       "descricao": "Empadão de Frango com requeijão 500g",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/0c/b2/da/0cb2da27c1d13902c7d047e857d16a42.jpg"
     },
     {
       "id": 8,
       "title": "Lasanha de Frango",
       "price": "10,00",
       "descricao": "Lasanha de Frango 500g",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/2c/26/a5/2c26a5b6fce196c3bdf3b5b06dbe088a.jpg"
     },
     {
       "id": 9,
       "title": "Lasanha de Carne",
       "price": "12,00",
       "descrição": "Lasanha de Carne 500g",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/72/b0/ba/72b0ba2361c2b263bbfff7827912fcb7.jpg"
     },
     {
       "id": 10,
       "title": "Escondidinho de Carne",
       "price": "12,00",
       "descricao": "Escondidinho de Carne 500g",
-      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+      "imageUrl": "https://i.pinimg.com/564x/d6/d8/a8/d6d8a8b4ab40af518896617e7bdff168.jpg"
     }
   ]
 }

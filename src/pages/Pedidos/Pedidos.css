@@ -1,0 +1,13 @@
+.container {
+  justify-content: center;
+  align-items: center;
+}
+
+.card-img-top {
+  width: 180px;
+  height: 160px;
+}
+
+body {
+  margin: 0px;
+}

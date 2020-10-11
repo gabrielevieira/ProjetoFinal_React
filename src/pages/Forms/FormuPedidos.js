@@ -3,6 +3,7 @@ import Header from "../../components/Header/Header";
 import { Form, Button, Container } from "react-bootstrap";
 import Rodape from "../../components/Rodape/Rodape";
 import "./FormuPedidos.css";
+import BarraInferior from "../../components/Rodape/BarraInferior";
 
 function FormuPedidos() {
   return (
@@ -60,6 +61,7 @@ function FormuPedidos() {
         </div>
       </Container>
       <Rodape />
+      <BarraInferior />
     </div>
   );
 }

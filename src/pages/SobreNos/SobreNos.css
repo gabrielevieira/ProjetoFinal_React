@@ -1,0 +1,16 @@
+.sobre-nos {
+  font-family: "ABeeZee", sans-serif;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.sobrenos-img {
+  height: 360px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
